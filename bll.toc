@@ -1,0 +1,55 @@
+\select@language {german}
+\contentsline {section}{\numberline {1}Einf\IeC {\"u}hrung}{4}{section.1}
+\contentsline {subsection}{\numberline {1.1}Problemstellung}{4}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Motivation}{4}{subsection.1.2}
+\contentsline {section}{\numberline {2}Architektur eines Systems zur Sprachverarbeitung}{7}{section.2}
+\contentsline {section}{\numberline {3}Theoretische Grundlagen}{8}{section.3}
+\contentsline {subsection}{\numberline {3.1}Der Parser}{8}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Formale Sprachen und die Chomsky-Hierarchie}{9}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Die formale Komplexit\IeC {\"a}t nat\IeC {\"u}rlicher Sprachen}{10}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Einordnung nat\IeC {\"u}rlicher Sprachen in die Chomsky-Hierarchie}{11}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Sind nat\IeC {\"u}rliche Sprachen eine Teilmenge der regul\IeC {\"a}ren?}{12}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3}Sind nat\IeC {\"u}rliche Sprachen eine Teilmenge der kontextfreien?}{12}{subsubsection.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.4}Sind nat\IeC {\"u}rliche Sprachen eine Teilmenge der kontextsensitiven?}{13}{subsubsection.3.3.4}
+\contentsline {subsection}{\numberline {3.4}Schwach-kontextsensitive Grammatiken}{13}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Nichtdeterministisches Parsing}{15}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}Deterministisches Parsing}{15}{subsection.3.6}
+\contentsline {subsection}{\numberline {3.7}Probabilistisches Parsing}{16}{subsection.3.7}
+\contentsline {section}{\numberline {4}Die Komplexit\IeC {\"a}t des Parsing-Problems}{17}{section.4}
+\contentsline {subsection}{\numberline {4.1}F\IeC {\"u}r kontextfreie Sprachen}{17}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Der Earley-Parser}{17}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}Der Coke-Younger-Kasami-Parser}{19}{subsubsection.4.1.2}
+\contentsline {subsubsection}{\numberline {4.1.3}Der Marcus-Parser}{19}{subsubsection.4.1.3}
+\contentsline {subsection}{\numberline {4.2}F\IeC {\"u}r kontextsensitive Sprachen}{20}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}F\IeC {\"u}r schwach-kontextsensitive Sprachen}{20}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}F\IeC {\"u}r probabilistische Sprachmodelle}{21}{subsection.4.4}
+\contentsline {section}{\numberline {5}Gesellschaftliche Relevanz}{21}{section.5}
+\contentsline {subsection}{\numberline {5.1}Anwendungsbereiche Heute}{22}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Nutzen in der literarischen Analyse}{23}{subsection.5.2}
+\contentsline {section}{\numberline {6}Ergebnis}{23}{section.6}
+\contentsline {section}{\numberline {A}Abk\IeC {\"u}rzungen und Definitionen}{25}{appendix.A}
+\contentsline {subsection}{\numberline {A.1}Abk\IeC {\"u}rzungen}{25}{subsection.A.1}
+\contentsline {subsection}{\numberline {A.2}Definitionen}{25}{subsection.A.2}
+\contentsline {subsubsection}{\numberline {A.2.1}Alphabet}{25}{subsubsection.A.2.1}
+\contentsline {subsubsection}{\numberline {A.2.2}Zeichenkette}{25}{subsubsection.A.2.2}
+\contentsline {subsubsection}{\numberline {A.2.3}Formale Sprache}{25}{subsubsection.A.2.3}
+\contentsline {subsubsection}{\numberline {A.2.4}Formale Grammatik}{25}{subsubsection.A.2.4}
+\contentsline {subsubsection}{\numberline {A.2.5}Mehrdeutige Grammatik}{26}{subsubsection.A.2.5}
+\contentsline {subsubsection}{\numberline {A.2.6}Das Wortproblem}{26}{subsubsection.A.2.6}
+\contentsline {subsubsection}{\numberline {A.2.7}Deterministischer Algorithmus}{26}{subsubsection.A.2.7}
+\contentsline {section}{\numberline {B}Beispiele, Abbildungen und Erl\IeC {\"a}uterungen}{26}{appendix.B}
+\contentsline {subsection}{\numberline {B.1}Beispiel f\IeC {\"u}r einen Ableitungsbaum}{26}{subsection.B.1}
+\contentsline {subsection}{\numberline {B.2}Beispiel f\IeC {\"u}r eine mehrdeutige Grammatik}{27}{subsection.B.2}
+\contentsline {subsection}{\numberline {B.3}Beispiel f\IeC {\"u}r eine probabilistisch-kontextfreie Grammatik}{27}{subsection.B.3}
+\contentsline {subsection}{\numberline {B.4}Durchlauf des Marcus-Parsers}{28}{subsection.B.4}
+\contentsline {subsection}{\numberline {B.5}Google Knowledge Graph}{30}{subsection.B.5}
+\contentsline {subsection}{\numberline {B.6}Beispiele f\IeC {\"u}r den Ngram Viewer}{31}{subsection.B.6}
+\contentsline {section}{\numberline {C}Source Code}{32}{appendix.C}
+\contentsline {subsection}{\numberline {C.1}Marcus-Parser (code/marcus.py)}{32}{subsection.C.1}
+\contentsline {subsection}{\numberline {C.2}Earley-Akzeptor (code/earley.py)}{36}{subsection.C.2}
+\contentsline {subsection}{\numberline {C.3}Grammatiken (code/grammars)}{38}{subsection.C.3}
+\contentsline {subsubsection}{\numberline {C.3.1}marcus.gr}{38}{subsubsection.C.3.1}
+\contentsline {subsubsection}{\numberline {C.3.2}earley.gr}{39}{subsubsection.C.3.2}
+\contentsline {section}{\numberline {D}Literatur}{40}{appendix.D}
+\contentsline {section}{\numberline {E}Arbeitstagebuch}{42}{appendix.E}
+\contentsline {section}{\numberline {F}Danksagungen}{43}{appendix.F}
